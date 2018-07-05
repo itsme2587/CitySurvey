@@ -1,0 +1,4 @@
+#Tue Jul 03 22:53:24 IST 2018
+base.0=F\:\\Android Projects\\CitySurvey\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
